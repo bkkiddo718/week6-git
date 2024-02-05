@@ -1,4 +1,4 @@
-terraform {
+codeterraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
